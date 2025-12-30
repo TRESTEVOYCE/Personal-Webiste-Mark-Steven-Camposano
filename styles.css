@@ -279,6 +279,9 @@ header {
     .hamburger {
         display: block;
     }
+    .intro-section{
+        padding:2.5rem;
+    }
 }
 
 .about-me {
