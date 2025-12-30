@@ -79,11 +79,10 @@ nav {
 
 .intro-section {
     text-align: center;
-    padding: 2rem;
+    padding: 10rem;
     background: var(--background-color);
     color: var(--font-color);
-    height: 70h;
-    padding: 10rem;
+    height: 70vh;
     margin: 0 0 3rem 0;
     
     h2 {
